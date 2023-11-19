@@ -2,7 +2,7 @@
 
 This repository contains Python programs for simulating the density solution of a McKean-Vlasov equation, associated to the paper:
 
-**Hoffmann, Marc, and Yating Liu. "A statistical approach for simulating the density solution of a McKean-Vlasov equation." arXiv preprint arXiv:2305.06876 (2023).**
+**Hoffmann, Marc, and Yating Liu. "A statistical approach for simulating the density solution of a McKean-Vlasov equation." arXiv preprint arXiv:2305.06876 (2023).** (https://arxiv.org/abs/2305.06876)
 
 In our paper, we explore our simulation method through three examples:
 
